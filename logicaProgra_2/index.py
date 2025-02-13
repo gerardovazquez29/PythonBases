@@ -1,18 +1,17 @@
 #index()
-
+# el index se utiliza para saber la posision de un elemento
 mi_texto = "esta es una prueba"
 resultado = mi_texto.index("")
 print(resultado)
-
 frase = "En teoría, la teoría y la práctica son los mismos. En la práctica, no lo son."
 print(frase.index("práctica"))
-
+# el metodo rindex funciona al reves
 frase = "En teoría, la teoría y la práctica son los mismos. En la práctica, no lo son."
 print(frase.rindex("práctica"))
 
 frase = "Controlar la complejidad es la esencia de la programación"
 print(frase[:9])
-
+# funciona para imprimir el texto al reves
 frase = "Nunca confíes en un ordenador que no puedas lanzar por una ventana"
 print(frase[8::3])
 
