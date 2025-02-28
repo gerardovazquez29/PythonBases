@@ -1,0 +1,3 @@
+Nombre: Raul
+Telefono: 454545454
+Categoria: cliente

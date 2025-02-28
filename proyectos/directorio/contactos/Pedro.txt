@@ -1,0 +1,3 @@
+Nombre: Pedro
+Telefono: 123123654
+Categoria: cliente

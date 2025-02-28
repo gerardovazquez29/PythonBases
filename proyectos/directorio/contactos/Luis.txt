@@ -1,0 +1,3 @@
+Nombre: Distribuidora
+Telefono: 789456123
+Categoria: proveedor
