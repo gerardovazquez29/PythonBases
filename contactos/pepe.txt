@@ -1,0 +1,3 @@
+Nombre: pepe
+Telefono: 698745123
+Categoria: provedor
